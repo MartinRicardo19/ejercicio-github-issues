@@ -19,3 +19,8 @@ Haz un fork del repositorio.
 
 ## Datos del alumno
 Incluye aquí tu nombre y apellidos
+
+## Libros
+El señor de los anillos
+Kilo
+Los Miserables
