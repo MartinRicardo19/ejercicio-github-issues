@@ -1,5 +1,8 @@
 # Práctica de Issues en GitHub
 
+## Nombre y Apellidos
+Ricardo Martin
+
 ## Instrucciones
 Haz un fork del repositorio.
 
