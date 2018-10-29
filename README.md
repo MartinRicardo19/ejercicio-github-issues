@@ -16,21 +16,3 @@ Haz un fork del repositorio.
 5) Haz una captura de pantalla de los comandos que has utilizado para hacer los commits y subir los cambios a GitHub.
 6) Incluye las capturas de pantalla en el repositorio dentro de la carpeta `capturas`. Añádelas también al repositorio de manera que queden guardadas en tu repositorio en GitHub.
 7) Realiza una `pull request` indicando en el mensaje que has completado la tarea.
-
-## Datos del alumno
-Incluye aquí tu nombre y apellidos
-
-## Libros
-El señor de los anillos
-Kilo
-Los Miserables
-
-## Peliculas
-El Padrino
-Scarfaces
-Amelie
-
-## Discos
-La Ultima Cancion
-Gloria
-Bolero
