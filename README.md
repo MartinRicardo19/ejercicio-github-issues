@@ -29,3 +29,8 @@ Los Miserables
 El Padrino
 Scarfaces
 Amelie
+
+## Discos
+La Ultima Cancion
+Gloria
+Bolero
